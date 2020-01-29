@@ -32,7 +32,7 @@ html {
 
 .banner-content {
   position: absolute;
-  bottom: 3px;
+  bottom: 0px;
   left: auto;
   color: #fff;
   max-width: 60em;
